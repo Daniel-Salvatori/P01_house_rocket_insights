@@ -1,7 +1,7 @@
 # <p align="center"> <b> INSIGHTS PROJECT - HOUSE ROCKET COMPANY </p> </b>
 
 <p align="center">
-  <img src=(houserocket.png)/>
+  <img src=(houserocket.png) alt="Sublime's custom image"/>
 </p>
 
 
