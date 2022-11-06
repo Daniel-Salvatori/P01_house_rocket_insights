@@ -1,6 +1,6 @@
 # <p align="center"> <b> INSIGHTS PROJECT - HOUSE ROCKET COMPANY </p> </b>
 
-![Projeto-Insight-House-Rocket](houserocket.png) 
+<p align="center"> ![Projeto-Insight-House-Rocket](houserocket.png) </p> 
 
 ## 1. About
 This repository contains codes for the portfolio analysis of a real estate company. All business context involving this project is fictitious. The database was extracted from Kaggle.
@@ -57,9 +57,11 @@ We have concluded that there are 3844 properties that are worth purchasing and r
 
 
 ## 7. References
-Dataset from [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction)
-Variables meaning on [Kaggle discussion](https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885)
-Python from Zero to [DS Youtube](https://www.youtube.com/watch?v=1xXK_z9M6yk&list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG&ab_channel=SejaUmDataScientist)
+
+- Dataset from [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction)
+- Variables meaning on [Kaggle discussion](https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885)
+- Python from Zero to [DS Youtube](https://www.youtube.com/watch?v=1xXK_z9M6yk&list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG&ab_channel=SejaUmDataScientist)
+
 If you have any other suggestion or question, feel free to contact me via [LinkedIn](https://linkedin.com/in/daniel-salvatori)
 
 ## 8. How to contribute
