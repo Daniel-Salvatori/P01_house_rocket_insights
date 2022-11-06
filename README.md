@@ -1,8 +1,11 @@
 <div align="center">
 
-#<b> INSIGHTS PROJECT - HOUSE ROCKET COMPANY </p> </b>
+# <b> INSIGHTS PROJECT - HOUSE ROCKET COMPANY </p> </b>
 
+<p align="center">
+  <img src="https://github.com/Daniel-Salvatori/P01_house_rocket_insights/blob/main/houserocket.png?raw=true)" alt="custom image"/>
 
+</p>
 
 </div>
 
