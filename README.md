@@ -1,7 +1,9 @@
 # <p align="center"> <b> INSIGHTS PROJECT - HOUSE ROCKET COMPANY </p> </b>
 
+<p align="center">
+  <img src=(houserocket.png)/>
+</p>
 
-![1](houserocket.png)
 
 ## 1. About
 This repository contains codes for the portfolio analysis of a real estate company. All business context involving this project is fictitious. The database was extracted from Kaggle.
