@@ -1,9 +1,10 @@
-# <p align="center"> <b> INSIGHTS PROJECT - HOUSE ROCKET COMPANY </p> </b>
+<div align="center">
 
-<p align="center">
-  <img src=(houserocket.png) alt="Sublime's custom image"/>
-</p>
+#<b> INSIGHTS PROJECT - HOUSE ROCKET COMPANY </p> </b>
 
+
+
+</div>
 
 ## 1. About
 This repository contains codes for the portfolio analysis of a real estate company. All business context involving this project is fictitious. The database was extracted from Kaggle.
