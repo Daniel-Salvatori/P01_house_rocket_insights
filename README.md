@@ -14,7 +14,7 @@ This repository contains codes for the portfolio analysis of a real estate compa
 
 The objectives of this project are:
 - Determine which properties have the best conditions for buying and identify best season for reselling  
-- Develop interactive [Dashboard](https://p01-house-rocket-insights.herokuapp.com/) on Heroku, which the company's CEO can analyze the properties from a mobile or computer
+- Develop interactive [Dashboard](https://p01-house-rocket-insights.onrender.com/) on Render, which the company's CEO can analyze the properties from a mobile or computer
 - Extract business insights from available catalog data.
 
 ---
