@@ -298,7 +298,7 @@ if __name__ == '__main__':
     #data extration
     path = 'kc_house_data.csv'
     data = get_data(path)
-    url = 'https://opendata.arcgis.com/datasets/83fc2e72903343aabff6de8cb445b81c_2.geojson'
+    url = 'King_county.geojson'
     geofile = get_geofile(url)
 
     #transformation
